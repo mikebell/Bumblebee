@@ -9,5 +9,6 @@
   "hubot-shipit",
   "hubot-karma-classic",
   "hubot-factoid",
-  "hubot-reminder"
+  "hubot-reminder",
+  "hubot-drupal"
 ]
